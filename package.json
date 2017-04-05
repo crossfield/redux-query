@@ -27,8 +27,7 @@
   },
   "files": [
     "dist",
-    "src",
-    "advanced.js"
+    "src"
   ],
   "keywords": [
     "redux",
