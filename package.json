@@ -25,10 +25,6 @@
     "type": "git",
     "url": "https://github.com/amplitude/redux-query.git"
   },
-  "files": [
-    "dist",
-    "src"
-  ],
   "keywords": [
     "redux",
     "react",
